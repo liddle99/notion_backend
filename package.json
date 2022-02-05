@@ -1,0 +1,16 @@
+{
+  "name": "notion_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/liddle99/notion_backend.git",
+  "author": "liddle99 <40184894+liddle99@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.15"
+  }
+}
